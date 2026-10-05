@@ -14,7 +14,7 @@ This repository contains a customizable script and Rofi theme for displaying and
 1. **Clone this repository** and navigate to the directory:
 
    ```bash
-   git clone https://github.com/yourusername/polybar-wifi-network-selector.git
+   git clone https://github.com/Gonka67/polybar-wifi-network-selector.git
    cd polybar-wifi-network-selector
    ```
 
